@@ -1,4 +1,4 @@
-import 'package:aprendendo_arquitetura/app/controllers/app_controller.dart';
+import 'package:aprendendo_arquitetura/app/app_controller.dart';
 import 'package:aprendendo_arquitetura/app/pages/home/home_page.dart';
 import 'package:flutter/material.dart';
 
@@ -12,6 +12,7 @@ class AppWidget extends StatelessWidget {
       valueListenable: AppController.instance.themeSwitch,
       builder: (context, isDark, child) {
         return MaterialApp(
+          debugShowCheckedModeBanner: false,
             title: 'Aprendendo Arquiteturas',
             theme: ThemeData(
               primarySwatch: Colors.blue,
