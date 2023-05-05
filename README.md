@@ -35,16 +35,19 @@ Para utilizar os exemplos de código deste repositório, é recomendado ter conh
 
 ## 🔍 Como utilizar
 
-Para utilizar os exemplos de código deste repositório, basta navegar até a pasta correspondente ao padrão de arquitetura que deseja aprender. Cada pasta inclui exemplos de código e um arquivo README com explicações dos conceitos e do código.
+Para utilizar os exemplos de código deste repositório, basta navegar até a pasta correspondente ao padrão de arquitetura que deseja aprender e dar um flutter run (para mais informações [acesse](https://docs.flutter.dev/get-started/install)). Cada pasta inclui exemplos de código e um arquivo README com explicações dos conceitos e do código.
 
 ## 📝 Contribuição
 
 Se desejar contribuir com este repositório, envie um pull request com suas alterações. Aceitamos contribuições da comunidade e ficaremos felizes em revisar e incorporar suas melhorias.
 
-## ℹ️ Aviso Legal
 
-Este repositório tem fins educacionais e seu uso é destinado apenas para estudo e aprendizado. O código contido neste repositório não deve ser usado para fins comerciais.
+<div align="center">
 
 ## 📧 Contato
 
-Se tiver alguma dúvida, sugestão ou comentário, envie um e-mail para flutterando@github.com.
+[![Email](https://img.shields.io/badge/Email-victorruan135@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorruan135@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ivictoruan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivictoruan)
+[![GitHub](https://img.shields.io/badge/GitHub-ivictoruan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivictoruan)
+
+</div>
